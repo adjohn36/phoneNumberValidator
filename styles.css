@@ -1,0 +1,11 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  #green-check, #red-x {
+    height: 200px;
+    width: 200px;
+  }
+  
